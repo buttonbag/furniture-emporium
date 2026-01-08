@@ -1,0 +1,39 @@
+body {
+  background-color:lightgrey;
+}
+
+h1 {
+  color:brown;
+}
+
+article {
+  border: 1px solid #999;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem;
+  background-color: whitesmoke;
+  width: 20rem;
+  position: relative;
+  box-shadow: 10px 10px #333;
+}
+
+button {
+  background-color:coral;
+  border: none;
+  padding: 1rem;
+  height: 50px;
+  width: 150px;
+  cursor: pointer;
+}
+
+button:hover {
+  box-shadow: 2px 2px #333;
+}
+
+.price {
+  font-size: 2rem;
+}
+
+.price s {
+  font-size: 1rem;
+}
